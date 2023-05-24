@@ -1,5 +1,5 @@
-streamlit==0.88.0
-Pillow==8.4.0
-transformers==4.11.3
-python-dotenv==0.19.1
-openai==0.30.0
+streamlit
+Pillow
+transformers
+python-dotenv
+openai
