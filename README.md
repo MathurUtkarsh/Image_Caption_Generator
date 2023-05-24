@@ -25,3 +25,8 @@ Live Demo (With My Thoughts and Explanation) - https://www.loom.com/share/70c1b9
 Live Code Walk Through:
 
 https://drive.google.com/file/d/1MZQMqnc5locfFeSkh7i3D0PNnOydiqRc/view?usp=share_link
+
+
+Prediction on Text images:
+
+Live Prediction - https://www.loom.com/share/9d7fdbb340aa42e5b17138a1c3a1397a
