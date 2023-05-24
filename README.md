@@ -16,5 +16,5 @@ engaging instead of just a description of the picture.
 
 My Solution:
 
-Live Demo - https://www.loom.com/share/70c1b971567943eca29521f783f39966
+Live Demo (With My Thoughts and Explanation) - https://www.loom.com/share/70c1b971567943eca29521f783f39966
 
