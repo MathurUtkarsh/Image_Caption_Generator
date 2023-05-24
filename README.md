@@ -11,8 +11,8 @@ the option to generate multiple captions based on the image.
 ● Provide an interface where the user can come and upload images and get AI generated captions. ●
 You are to free use the library of your choice
 
-● Use the following images as test cases - Link
-Note - Try to use pre-trained models from websites like **huggingface**.
+● Use the following images as test cases -
+Link Note - Try to use pre-trained models from websites like **huggingface**.
 
 **What we are looking for** - Captions should be catchy, exciting, innovative, captivating, creative and
 engaging instead of just a description of the picture.
