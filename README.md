@@ -29,6 +29,8 @@ Live Code Walk Through:
 
 https://drive.google.com/file/d/1MZQMqnc5locfFeSkh7i3D0PNnOydiqRc/view?usp=share_link
 
+## Video Details: 
+
 1. First video is Live Deom with my explantion.
 2. Second video is for those who want to see more prediction on different diffewrent images.
 3. Third video is for those who want a deeper understanding of how this modle is working and what is the code behind it.
