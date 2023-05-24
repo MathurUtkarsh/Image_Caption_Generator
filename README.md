@@ -25,9 +25,9 @@ Prediction on Text images:
 
 Live Prediction - https://www.loom.com/share/9d7fdbb340aa42e5b17138a1c3a1397a
 
-Live Code Walk Through:
+Drive Link:
 
-https://drive.google.com/file/d/1MZQMqnc5locfFeSkh7i3D0PNnOydiqRc/view?usp=share_link
+https://drive.google.com/drive/folders/1fdAdZJdCgdOZ5cbJnZpMEk34rJNLPgxE?usp=share_link
 
 ## Video Details: 
 
