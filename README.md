@@ -33,6 +33,6 @@ https://drive.google.com/drive/folders/1fdAdZJdCgdOZ5cbJnZpMEk34rJNLPgxE?usp=sha
 
 1. First video is Live Demo with my explantion.
 2. Second video is for those who want to see more prediction on different diffewrent images.
-3. Third video is for those who want a deeper understanding of how this modle is working and what is the code behind it.
+3. Drive Link contain a video named "Code Walk Through" for those who want a deeper understanding of how this modle is working and what is the code behind it.
 
 ## Note: I would Recommend to watch the 1st video.
