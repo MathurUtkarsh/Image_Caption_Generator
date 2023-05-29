@@ -1,12 +1,12 @@
 import streamlit as st
 from PIL import Image, ImageEnhance
 from transformers import AutoProcessor, AutoModelForCausalLM
-from dotenv import find_dotenv, load_dotenv
+from dotenv import load_dotenv
 import openai
 import os
 
 # Load environment variables from .env file
-load_dotenv(find_dotenv())
+load_dotenv()
 
 # Set up OpenAI API credentials
 openai.api_key = os.getenv("OPENAI_API_KEY")
